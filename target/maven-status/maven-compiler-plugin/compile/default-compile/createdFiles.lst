@@ -1,0 +1,6 @@
+com\sam\StudentManagemement\repository\Studentrepo.class
+com\sam\StudentManagemement\controller\Controller.class
+com\sam\StudentManagemement\StudentManagemementApplication.class
+com\sam\StudentManagemement\entity\Student.class
+com\sam\StudentManagemement\service\Studentservice.class
+com\sam\StudentManagemement\serviceimp\serviceimp.class
